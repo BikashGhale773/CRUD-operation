@@ -10,6 +10,7 @@ public class CrudGithubApplication {
 		SpringApplication.run(CrudGithubApplication.class, args);
 		System.out.println("Hello World");
 		System.out.println("Changes made for github");
+		System.out.println("Controller package is created");
 	}
 
 }
